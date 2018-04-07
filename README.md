@@ -1,2 +1,2 @@
-# cpp_snake
+# Console snake game
 Controls are WASD
